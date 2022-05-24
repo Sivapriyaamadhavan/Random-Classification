@@ -19,22 +19,17 @@ categorical variables as in the case of classification.
 
 ## Algorithm
 1.In Random Forest n number of random records are taken from the data set having
-k number of records.
-
-2.Individual decision trees are constructed for each sample.
-
-3.Each decision tree will generate an output.
-
+k number of records.<br>
+2.Individual decision trees are constructed for each sample.<br>
+3.Each decision tree will generate an output.<br>
 4.Final output is considered based on Majority Voting or Averaging for Classification
-and regression respectively
+and regression respectively.<br>
 
-<br><br>
 ## Program:
 ```
 Program to implement random classification.
 Developed by: SIVAPRIYAA S M
 Register Number: 212219040147
-
 
 import matplotlib.pyplot as plt
 from sklearn import datasets
