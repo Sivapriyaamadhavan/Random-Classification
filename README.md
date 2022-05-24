@@ -27,12 +27,14 @@ k number of records.
 
 4.Final output is considered based on Majority Voting or Averaging for Classification
 and regression respectively
-<br>
+
+<br><br>
 ## Program:
 ```
 Program to implement random classification.
 Developed by: SIVAPRIYAA S M
 Register Number: 212219040147
+
 
 import matplotlib.pyplot as plt
 from sklearn import datasets
