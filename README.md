@@ -26,7 +26,6 @@ k number of records.<br>
 and regression respectively.<br>
 
 ## Program:
-```
 Program to implement random classification.
 Developed by: SIVAPRIYAA S M
 Register Number: 212219040147
