@@ -26,9 +26,9 @@ k number of records.<br>
 and regression respectively.<br>
 
 ## Program:
-Program to implement random classification.
-Developed by: SIVAPRIYAA S M
-Register Number: 212219040147
+Program to implement random classification.<br>
+Developed by: SIVAPRIYAA S M<br>
+Register Number: 212219040147<br>
 ```
 import matplotlib.pyplot as plt
 from sklearn import datasets
