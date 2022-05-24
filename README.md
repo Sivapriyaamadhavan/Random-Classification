@@ -26,10 +26,9 @@ k number of records.<br>
 and regression respectively.<br>
 
 ## Program:
-Program to implement random classification.
+```Program to implement random classification.
 Developed by: SIVAPRIYAA S M
 Register Number: 212219040147
-
 import matplotlib.pyplot as plt
 from sklearn import datasets
 X,y = datasets.make_blobs(n_samples=100,n_features=2,
