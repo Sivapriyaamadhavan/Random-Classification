@@ -27,7 +27,7 @@ k number of records.
 
 4.Final output is considered based on Majority Voting or Averaging for Classification
 and regression respectively
-
+<br>
 ## Program:
 ```
 Program to implement random classification.
